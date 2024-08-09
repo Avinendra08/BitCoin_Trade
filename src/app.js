@@ -15,6 +15,6 @@ import cryptoRouter from './routes/crypto.routes.js'
 
 
 //routes declaration
-app.use("/api/v1/crypto", cryptoRouter)
+app.use("/api", cryptoRouter)
 
 export { app }
