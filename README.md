@@ -6,7 +6,7 @@ Node.js,Express,MongoDB
 Multer: Middleware for handling file uploads.
 csvtojson: Library to convert CSV data to JSON format.
 
-I have deployed teh backend on render.
+I have deployed the backend on render.
 Url:https://koinx-assignment-d8kq.onrender.com/
 for posting csv file : https://koinx-assignment-d8kq.onrender.com/api/uploadCrypto (POST Method , csv file as input)
 for getting assets at given timestamp : https://koinx-assignment-d8kq.onrender.com/api/getAssetBalance (GET Method , timestamp as body input)
