@@ -17,7 +17,7 @@ KoinX_Crypto is a Node.js-based backend service designed for handling cryptocurr
 3. Enter the following details in the ```.env``` file
 
    ``` bash
-   DB_URI = YOUR_MONGO_URL
+   MONGODB_URI = YOUR_MONGO_URL
    PORT = 8000
    
 4. Open the terminal in the root folder and run the following commands :
